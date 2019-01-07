@@ -45,7 +45,8 @@ Use Ubuntu or any flavour of Linux with following installed
 
 
 
-### Conclusion:
+### Conclusion: 
+(Check output images in folders)
 It’s evident from the various key point indicators that many experienced employees are leaving the company because of relatively low satisfaction, high working hours, low salaries and not getting salary benefits even after promotion in their respective departments.
 
 The most problematic department -> Sales.
